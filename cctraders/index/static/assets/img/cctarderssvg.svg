@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 841.89 595.28">
+  <defs>
+    <style>
+      .cls-1 {
+        font-family: Gilroy-Regular, Gilroy-Regular;
+        font-size: 21.95px;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        fill: #12a89d;
+      }
+
+      .cls-4 {
+        letter-spacing: .08em;
+      }
+
+      .cls-5 {
+        letter-spacing: .1em;
+      }
+
+      .cls-6 {
+        letter-spacing: 0em;
+      }
+
+      .cls-7 {
+        fill: #2a516d;
+      }
+
+      .cls-3 {
+        stroke: #115477;
+        stroke-miterlimit: 10;
+        stroke-width: 6px;
+      }
+
+      .cls-8 {
+        fill: #126e7e;
+      }
+
+      .cls-9 {
+        letter-spacing: .07em;
+      }
+
+      .cls-10 {
+        letter-spacing: 0em;
+      }
+
+      .cls-11 {
+        letter-spacing: 0em;
+      }
+
+      .cls-12 {
+        fill: #126d80;
+        font-family: Raleway-ExtraBold, Raleway;
+        font-size: 69.2px;
+        font-weight: 700;
+      }
+
+      .cls-13 {
+        letter-spacing: .08em;
+      }
+
+      .cls-14 {
+        letter-spacing: .09em;
+      }
+
+      .cls-15 {
+        letter-spacing: 0em;
+      }
+    </style>
+  </defs>
+  <text class="cls-1" transform="translate(351.88 336.1)"><tspan class="cls-5" x="0" y="0">N</tspan><tspan class="cls-4" x="17.12" y="0">ev</tspan><tspan class="cls-5" x="44.66" y="0">er </tspan><tspan class="cls-14" x="76.45" y="0">S</tspan><tspan class="cls-9" x="90.96" y="0">t</tspan><tspan class="cls-5" x="100.73" y="0">op Imp</tspan><tspan class="cls-9" x="184.29" y="0">r</tspan><tspan class="cls-13" x="192.72" y="0">o</tspan><tspan class="cls-5" x="207.78" y="0">ving.</tspan></text>
+  <line class="cls-3" x1="325.21" y1="239.08" x2="325.21" y2="349.02"/>
+  <text class="cls-12" transform="translate(346.41 307.55)"><tspan x="0" y="0">C</tspan><tspan class="cls-11" x="45.88" y="0">C</tspan><tspan x="91.61" y="0">T</tspan><tspan class="cls-10" x="134.65" y="0">r</tspan><tspan x="161.85" y="0">ade</tspan><tspan class="cls-6" x="290.13" y="0">r</tspan><tspan class="cls-15" x="317.81" y="0">s</tspan></text>
+  <g>
+    <polygon class="cls-8" points="138.07 277.96 197.03 297.78 156.33 329.61 169.9 303.78 138.07 277.96"/>
+    <polygon class="cls-2" points="180.85 349.02 207.98 296.22 141.2 247.18 262.24 286.31 180.85 349.02"/>
+    <path class="cls-7" d="M234.46,359.78s24.24-3.53,39.78-21.04c0,0-37.28,3.84-48.74-5.72,0,0,30.07,7.2,52.84,.2,0,0,6.97-8.76,10.56-21.05,0,0-13.33,2.72-28.74,1.73,0,0,24.97-2.23,29.65-5.19,0,0,2.6-10.59,1.08-13.89,0,0-11.83,4.5-20.76,2.3,0,0,15.38-.9,20.96-5.99,0,0-1.04-14.16-3.78-19.64s-2.57,.46-2.57,.46c0,0-39.27,6.31-63.36-8.32,0,0,25.99,11.69,62.77,3.49,0,0-4.2-11.28-14.02-19.64,0,0-15.54,4.13-26.58-.3,0,0,18.21,.87,23.15-3.35,0,0-28.82-25.84-70.11-7.6,0,0,17.98-14.2,50.04-6.59,0,0,48.9,9.67,48.96,67.47,0,0,1.37,54.48-61.11,62.66Z"/>
+    <polygon class="cls-7" points="284.74 271.96 287.31 271.5 287.31 267.26 280.76 271.96 284.74 271.96"/>
+  </g>
+</svg>
